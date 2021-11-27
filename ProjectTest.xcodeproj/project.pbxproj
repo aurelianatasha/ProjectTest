@@ -16,7 +16,6 @@
 		175085042751E8F100C948A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 175085022751E8F100C948A4 /* LaunchScreen.storyboard */; };
 		1750850F2751E8F100C948A4 /* ProjectTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750850E2751E8F100C948A4 /* ProjectTestTests.swift */; };
 		1750851A2751E8F200C948A4 /* ProjectTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175085192751E8F200C948A4 /* ProjectTestUITests.swift */; };
-		1750852B2751EAD100C948A4 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750852A2751EAD100C948A4 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		175085152751E8F200C948A4 /* ProjectTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		175085192751E8F200C948A4 /* ProjectTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTestUITests.swift; sourceTree = "<group>"; };
 		1750851B2751E8F200C948A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1750852A2751EAD100C948A4 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +104,6 @@
 				175084F42751E8EE00C948A4 /* AppDelegate.swift */,
 				175084F62751E8EE00C948A4 /* SceneDelegate.swift */,
 				175084F82751E8EE00C948A4 /* ViewController.swift */,
-				1750852A2751EAD100C948A4 /* Model.swift */,
 				175084FA2751E8EE00C948A4 /* Main.storyboard */,
 				175085002751E8F100C948A4 /* Assets.xcassets */,
 				175085022751E8F100C948A4 /* LaunchScreen.storyboard */,
@@ -264,7 +261,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1750852B2751EAD100C948A4 /* Model.swift in Sources */,
 				175084F92751E8EE00C948A4 /* ViewController.swift in Sources */,
 				175084F52751E8EE00C948A4 /* AppDelegate.swift in Sources */,
 				175084F72751E8EE00C948A4 /* SceneDelegate.swift in Sources */,
